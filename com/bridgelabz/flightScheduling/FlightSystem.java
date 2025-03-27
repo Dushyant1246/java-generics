@@ -17,5 +17,24 @@ public class FlightSystem {
         manager.addFlight(flight1);
         manager.displayAllFlights();
     }
-
 }
+/*
+Booking ID: 5001
+Passenger: John Doe
+FlightCode: 101
+Departure: New York
+Destination: London
+
+----------------
+Booking ID: B102
+Passenger: Jane Smith
+FlightCode: AA202
+Departure: Los Angeles
+Destination: Tokyo
+
+
+--- Flight Management ---
+FlightCode: 101
+Departure: New York
+Destination: London
+ */
